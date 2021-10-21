@@ -2,10 +2,15 @@ import React from "react";
 
 const About = () => {
 	return (
-		<div>
-			<h2>About</h2>
+		<div style={{ marginTop: "15px"}} >
+			<h2>
+				{" "}
+				This is React Book finder and management system applicatiom with Routing using
+				Firebase
+
+			</h2>
 		</div>
-		)
+		);
 };
 
 
