@@ -44,6 +44,6 @@ Your application setup is successfully completed!
 # development
 $ npm start
 ```
-![Screenshot](book-finder/src/Screenshot%20from%202021-10-22%2016-45-41.png)
+![Screenshot]<img src =" book-finder/src/Screenshot%20from%202021-10-22%2016-45-41.png">
 
 Happy Learning!!
