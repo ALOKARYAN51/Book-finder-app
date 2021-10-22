@@ -44,6 +44,6 @@ Your application setup is successfully completed!
 # development
 $ npm start
 ```
-!<img src = "src/Screenshot from 2021-10-22 16-45-41.png">
+<img src = "src/Screenshot from 2021-10-22 16-45-41.png">
 
 Happy Learning!!
