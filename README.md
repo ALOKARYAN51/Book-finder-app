@@ -28,7 +28,7 @@ git clone https://github.com/ALOKARYAN51/Book-finder-app.git
 ```
 Navigate to project directory
 ```bash
-cd Contact_App
+cd book-finder
 ```
 
 ### 3. Install Dependencies
